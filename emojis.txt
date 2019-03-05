@@ -1,0 +1,2432 @@
+﻿		😀 une personne souriant 
+		😁 une personne souriant avec les yeux fermés 
+		😂 une personne riant aux éclats 
+		🤣 une personne morte de rire 
+		😃 une personne souriant avec de grands yeux 
+		😄 une personne souriant avec les yeux fermés 
+		😅 une personne gênée 
+		😆 une personne rigolant 
+		😉 une personne faisant un clin-d'œil 
+		😊 une personne rougissant 
+		😋 une personne savourant un plat 
+		😎 une personne cool 
+		😍 une personne amoureuse 
+		😘 une personne embrassant fort 
+		🥰 une personne très amoureuse 
+		🥵 une personne crevant de chaud 
+		🥶 une personne crevant de froid 
+		🥳 une personne qui fête le Nouvel An 
+		🥴  une personne bourrée 
+		🥺 une personne avec des yeux de chien battu 
+		😗 une personne embrassant 
+		😙 une personne embrassant les yeux fermés 
+		😚 une personne embrassant et rougissant les yeux fermés 
+		☺ une personne souriant 
+		🙂 une personne souriant un peu 
+		🤗 une personne faisant un câlin 
+		🤔 une personne qui réfléchit 
+		😐 une personne neutre 
+		😑 une personne sans expression 
+		😶 une personne muette 
+		🙄 une personne roulant les yeux 
+		😏 une personne faisant un sourire en coin 
+		😣 une personne dérangée 
+		😥 une personne légèrement inquiète 
+		😮 une personne un peu surprise 
+		🤐 une personne qui dit que dalle 
+		😯 une personne légèrement surprise 
+		😪 une personne endormie 
+		😫 une personne fatiguée 
+		😴 une personne dormant 
+		😌 une personne calme 
+		😛 une personne tirant la langue 
+		😜 une personne tirant la langue en faisant un clin-d'œil 
+		😝 une personne tirant la langue 
+		🤤 une personne qui bave 
+		😒 une personne ennuyée 
+		😓 une personne très gênée 
+		😔 une personne en dépression 
+		😕 une personne confuse 
+		🙃 une personne la tête en bas 
+		🤑 une personne avare 
+		😲 une personne très étonnée 
+		☹ une personne triste 
+		🙁 une personne un peu triste 
+		😖 une personne dégoûtée 
+		😞 une personne déçue 
+		😟 une personne inquiète 
+		😤 une personne qui crache de la vapeur 
+		😢 une personne pleurant 
+		😭 une personne qui pleure beaucoup 
+		😦 une personne un peu triste avec la bouche ouverte 
+		😧 une personne étonnée 
+		😨 une personne effrayée 
+		😩 une personne qui en a marre 
+		😬 une personne constipée 
+		😰 une personne stressée 
+		😱 une personne qui crie de peur 
+		😳 une personne bouche-bée 
+		😵 une personne confuse 
+		😡 une personne en colère 
+		😠 une personne fâchée 
+		😷 une personne avec un masque médical 
+		🤒 une personne avec un thermomètre 
+		🤕 une personne avec un bandage 
+		🤢 une personne ayant la nausée 
+		🤧 une personne se mouchant 
+		😇 un ange 
+		🤠 un cowboy 
+		🤡 un clown 
+		🤥 un menteur 
+		🤓 un intello 
+		😈 Satan 
+		👿 un diable 
+		👹 un ogre 
+		👺 un gobelin 
+		💀 un crâne 
+		☠ un crâne avec des os croisés 
+		👻 un fantôme 
+		👽 un extraterrestre 
+		👾 un monstre extraterrestre 
+		🤖 un robot 
+		💩 une pile d'excréments 
+		😺 un chat souriant 
+		😸 un chat souriant avec les yeux fermés 
+		😹 un chat riant aux éclats 
+		😻 un chat amoureux 
+		😼 un chat avec un sourire en coin 
+		😽 un chat qui embrasse 
+		🙀 un chat effrayé 
+		😿 un chat pleurant 
+		😾 un chat en colère 
+		🙈 un singe ne voyant rien 
+		🙉 un singe n'entendant rien 
+		🙊 un singe ne disant rien 
+		👶 un bébé 
+		👶🏻 un bébé 
+		👶🏼 un bébé 
+		👶🏽 un bébé 
+		👶🏾 un bébé 
+		👶🏿 un bébé 
+		👦 un garçon 
+		👦🏻 un garçon 
+		👦🏼 un garçon 
+		👦🏽 un garçon 
+		👦🏾 un garçon 
+		👦🏿 un garçon 
+		👧 une fille 
+		👧🏻 une fille 
+		👧🏼 une fille 
+		👧🏽 une fille 
+		👧🏾 une fille 
+		👧🏿 une fille 
+		👨 un homme 
+		👨🏻 un homme 
+		👨🏼 un homme 
+		👨🏽 un homme 
+		👨🏾 un homme 
+		👨🏿 un homme 
+		👩 une femme 
+		👩🏻 une femme 
+		👩🏼 une femme 
+		👩🏽 une femme 
+		👩🏾 une femme 
+		👩🏿 une femme 
+		👴 un homme âgé 
+		👴🏻 un homme âgé 
+		👴🏼 un homme âgé 
+		👴🏽 un homme âgé 
+		👴🏾 un homme âgé 
+		👴🏿 un homme âgé 
+		👵 une femme âgée 
+		👵🏻 une femme âgée 
+		👵🏼 une femme âgée 
+		👵🏽 une femme âgée 
+		👵🏾 une femme âgée 
+		👵🏿 une femme âgée 
+		👨‍⚕️ un médecin 
+		👨🏻‍⚕️ un médecin 
+		👨🏼‍⚕️ un médecin 
+		👨🏽‍⚕️ un médecin 
+		👨🏾‍⚕️ un médecin 
+		👨🏿‍⚕️ un médecin 
+		👩‍⚕️ une femme médecin 
+		👩🏻‍⚕️ une femme médecin 
+		👩🏼‍⚕️ une femme médecin 
+		👩🏽‍⚕️ une femme médecin 
+		👩🏾‍⚕️ une femme médecin 
+		👩🏿‍⚕️ une femme médecin 
+		👨‍🎓 un étudiant 
+		👨🏻‍🎓 un étudiant 
+		👨🏼‍🎓 un étudiant 
+		👨🏽‍🎓 un étudiant 
+		👨🏾‍🎓 un étudiant 
+		👨🏿‍🎓 un étudiant 
+		👩‍🎓 une étudiante 
+		👩🏻‍🎓 une étudiante 
+		👩🏼‍🎓 une étudiante 
+		👩🏽‍🎓 une étudiante 
+		👩🏾‍🎓 une étudiante 
+		👩🏿‍🎓 une étudiante 
+		👨‍🏫 un professeur 
+		👨🏻‍🏫 un professeur 
+		👨🏼‍🏫 un professeur 
+		👨🏽‍🏫 un professeur 
+		👨🏾‍🏫 un professeur 
+		👨🏿‍🏫 un professeur 
+		👩‍🏫 une professeur 
+		👩🏻‍🏫 une professeur 
+		👩🏼‍🏫 une professeur 
+		👩🏽‍🏫 une professeur 
+		👩🏾‍🏫 une professeur 
+		👩🏿‍🏫 une professeur 
+		👨‍⚖️ un juge 
+		👨🏻‍⚖️ un juge 
+		👨🏼‍⚖️ un juge 
+		👨🏽‍⚖️ un juge 
+		👨🏾‍⚖️ un juge 
+		👨🏿‍⚖️ un juge 
+		👩‍⚖️ une juge 
+		👩🏻‍⚖️ une juge 
+		👩🏼‍⚖️ une juge 
+		👩🏽‍⚖️ une juge 
+		👩🏾‍⚖️ une juge 
+		👩🏿‍⚖️ une juge 
+		👨‍🌾 un fermier 
+		👨🏻‍🌾 un fermier 
+		👨🏼‍🌾 un fermier 
+		👨🏽‍🌾 un fermier 
+		👨🏾‍🌾 un fermier 
+		👨🏿‍🌾 un fermier 
+		👩‍🌾 une fermière 
+		👩🏻‍🌾 une fermière 
+		👩🏼‍🌾 une fermière 
+		👩🏽‍🌾 une fermière 
+		👩🏾‍🌾 une fermière 
+		👩🏿‍🌾 une fermière 
+		👨‍🍳 un cuisinier 
+		👨🏻‍🍳 un cuisinier 
+		👨🏼‍🍳 un cuisinier 
+		👨🏽‍🍳 un cuisinier 
+		👨🏾‍🍳 un cuisinier 
+		👨🏿‍🍳 un cuisinier 
+		👩‍🍳 une cuisinière 
+		👩🏻‍🍳 une cuisinière 
+		👩🏼‍🍳 une cuisinière 
+		👩🏽‍🍳 une cuisinière 
+		👩🏾‍🍳 une cuisinière 
+		👩🏿‍🍳 une cuisinière 
+		👨‍🔧 un mécanicien 
+		👨🏻‍🔧 un mécanicien 
+		👨🏼‍🔧 un mécanicien 
+		👨🏽‍🔧 un mécanicien 
+		👨🏾‍🔧 un mécanicien 
+		👨🏿‍🔧 un mécanicien 
+		👩‍🔧 une mécanicienne 
+		👩🏻‍🔧 une mécanicienne 
+		👩🏼‍🔧 une mécanicienne 
+		👩🏽‍🔧 une mécanicienne 
+		👩🏾‍🔧 une mécanicienne 
+		👩🏿‍🔧 une mécanicienne 
+		👨‍🏭 un employé d'usine 
+		👨🏻‍🏭 un employé d'usine 
+		👨🏼‍🏭 un employé d'usine 
+		👨🏽‍🏭 un employé d'usine 
+		👨🏾‍🏭 un employé d'usine 
+		👨🏿‍🏭 un employé d'usine 
+		👩‍🏭 une employée d'usine 
+		👩🏻‍🏭 une employée d'usine 
+		👩🏼‍🏭 une employée d'usine 
+		👩🏽‍🏭 une employée d'usine 
+		👩🏾‍🏭 une employée d'usine 
+		👩🏿‍🏭 une employée d'usine 
+		👨‍💼 un homme d'affaires 
+		👨🏻‍💼 un homme d'affaires 
+		👨🏼‍💼 un homme d'affaires 
+		👨🏽‍💼 un homme d'affaires 
+		👨🏾‍💼 un homme d'affaires 
+		👨🏿‍💼 un homme d'affaires 
+		👩‍💼 une femme d'affaires 
+		👩🏻‍💼 une femme d'affaires 
+		👩🏼‍💼 une femme d'affaires 
+		👩🏽‍💼 une femme d'affaires 
+		👩🏾‍💼 une femme d'affaires 
+		👩🏿‍💼 une femme d'affaires 
+		👨‍🔬 un scientifique 
+		👨🏻‍🔬 un scientifique 
+		👨🏼‍🔬 un scientifique 
+		👨🏽‍🔬 un scientifique 
+		👨🏾‍🔬 un scientifique 
+		👨🏿‍🔬 un scientifique 
+		👩‍🔬 une scientifique 
+		👩🏻‍🔬 une scientifique 
+		👩🏼‍🔬 une scientifique 
+		👩🏽‍🔬 une scientifique 
+		👩🏾‍🔬 une scientifique 
+		👩🏿‍🔬 une scientifique 
+		👨‍💻 un informaticien 
+		👨🏻‍💻 un informaticien 
+		👨🏼‍💻 un informaticien 
+		👨🏽‍💻 un informaticien 
+		👨🏾‍💻 un informaticien 
+		👨🏿‍💻 un informaticien 
+		👩‍💻 une informaticienne 
+		👩🏻‍💻 une informaticienne 
+		👩🏼‍💻 une informaticienne 
+		👩🏽‍💻 une informaticienne 
+		👩🏾‍💻 une informaticienne 
+		👩🏿‍💻 une informaticienne 
+		👨‍🎤 un chanteur 
+		👨🏻‍🎤 un chanteur 
+		👨🏼‍🎤 un chanteur 
+		👨🏽‍🎤 un chanteur 
+		👨🏾‍🎤 un chanteur 
+		👨🏿‍🎤 un chanteur 
+		👩‍🎤 une chanteuse 
+		👩🏻‍🎤 une chanteuse 
+		👩🏼‍🎤 une chanteuse 
+		👩🏽‍🎤 une chanteuse 
+		👩🏾‍🎤 une chanteuse 
+		👩🏿‍🎤 une chanteuse 
+		👨‍🎨 un artiste 
+		👨🏻‍🎨 un artiste 
+		👨🏼‍🎨 un artiste 
+		👨🏽‍🎨 un artiste 
+		👨🏾‍🎨 un artiste 
+		👨🏿‍🎨 un artiste 
+		👩‍🎨 une artiste 
+		👩🏻‍🎨 une artiste 
+		👩🏼‍🎨 une artiste 
+		👩🏽‍🎨 une artiste 
+		👩🏾‍🎨 une artiste 
+		👩🏿‍🎨 une artiste 
+		👨‍✈️ un pilote 
+		👨🏻‍✈️ un pilote 
+		👨🏼‍✈️ un pilote 
+		👨🏽‍✈️ un pilote 
+		👨🏾‍✈️ un pilote 
+		👨🏿‍✈️ un pilote 
+		👩‍✈️ une pilote 
+		👩🏻‍✈️ une pilote 
+		👩🏼‍✈️ une pilote 
+		👩🏽‍✈️ une pilote 
+		👩🏾‍✈️ une pilote 
+		👩🏿‍✈️ une pilote 
+		👨‍🚀 un astronaute 
+		👨🏻‍🚀 un astronaute 
+		👨🏼‍🚀 un astronaute 
+		👨🏽‍🚀 un astronaute 
+		👨🏾‍🚀 un astronaute 
+		👨🏿‍🚀 un astronaute 
+		👩‍🚀 une astronaute 
+		👩🏻‍🚀 une astronaute 
+		👩🏼‍🚀 une astronaute 
+		👩🏽‍🚀 une astronaute 
+		👩🏾‍🚀 une astronaute 
+		👩🏿‍🚀 une astronaute 
+		👨‍🚒 un pompier 
+		👨🏻‍🚒 un pompier 
+		👨🏼‍🚒 un pompier 
+		👨🏽‍🚒 un pompier 
+		👨🏾‍🚒 un pompier 
+		👨🏿‍🚒 un pompier 
+		👩‍🚒 une femme pompier 
+		👩🏻‍🚒 une femme pompier 
+		👩🏼‍🚒 une femme pompier 
+		👩🏽‍🚒 une femme pompier 
+		👩🏾‍🚒 une femme pompier 
+		👩🏿‍🚒 une femme pompier 
+		👮 un policier 
+		👮🏻 un policier 
+		👮🏼 un policier 
+		👮🏽 un policier 
+		👮🏾 un policier 
+		👮🏿 un policier 
+		👮‍♂️ un policier 
+		👮🏻‍♂️ un policier 
+		👮🏼‍♂️ un policier 
+		👮🏽‍♂️ un policier 
+		👮🏾‍♂️ un policier 
+		👮🏿‍♂️ un policier 
+		👮‍♀️ une policière 
+		👮🏻‍♀️ une policière 
+		👮🏼‍♀️ une policière 
+		👮🏽‍♀️ une policière 
+		👮🏾‍♀️ une policière 
+		👮🏿‍♀️ une policière 
+		🕵 un détective 
+		🕵🏻 un détective 
+		🕵🏼 un détective 
+		🕵🏽 un détective 
+		🕵🏾 un détective 
+		🕵🏿 un détective 
+		🕵️‍♂️ un détective 
+		🕵🏻‍♂️ un détective 
+		🕵🏼‍♂️ un détective 
+		🕵🏽‍♂️ un détective 
+		🕵🏾‍♂️ un détective 
+		🕵🏿‍♂️ un détective 
+		🕵️‍♀️ une détective 
+		🕵🏻‍♀️ une détective 
+		🕵🏼‍♀️ une détective 
+		🕵🏽‍♀️ une détective 
+		🕵🏾‍♀️ une détective 
+		🕵🏿‍♀️ une détective 
+		💂 un garde 
+		💂🏻 un garde 
+		💂🏼 un garde 
+		💂🏽 un garde 
+		💂🏾 un garde 
+		💂🏿 un garde 
+		💂‍♂️ un garde 
+		💂🏻‍♂️ un garde 
+		💂🏼‍♂️ un garde 
+		💂🏽‍♂️ un garde 
+		💂🏾‍♂️ un garde 
+		💂🏿‍♂️ un garde 
+		💂‍♀️ une garde 
+		💂🏻‍♀️ une garde 
+		💂🏼‍♀️ une garde 
+		💂🏽‍♀️ une garde 
+		💂🏾‍♀️ une garde 
+		💂🏿‍♀️ une garde 
+		👷 un maçon 
+		👷🏻 un maçon 
+		👷🏼 un maçon 
+		👷🏽 un maçon 
+		👷🏾 un maçon 
+		👷🏿 un maçon 
+		👷‍♂️ un maçon 
+		👷🏻‍♂️ un maçon 
+		👷🏼‍♂️ un maçon 
+		👷🏽‍♂️ un maçon 
+		👷🏾‍♂️ un maçon 
+		👷🏿‍♂️ un maçon 
+		👷‍♀️ une maçonne 
+		👷🏻‍♀️ une maçonne 
+		👷🏼‍♀️ une maçonne 
+		👷🏽‍♀️ une maçonne 
+		👷🏾‍♀️ une maçonne 
+		👷🏿‍♀️ une maçonne 
+		🤴 un prince 
+		🤴🏻 un prince 
+		🤴🏼 un prince 
+		🤴🏽 un prince 
+		🤴🏾 un prince 
+		🤴🏿 un prince 
+		👸 une princesse 
+		👸🏻 une princesse 
+		👸🏼 une princesse 
+		👸🏽 une princesse 
+		👸🏾 une princesse 
+		👸🏿 une princesse 
+		👳 une personne portant un turban 
+		👳🏻 une personne portant un turban 
+		👳🏼 une personne portant un turban 
+		👳🏽 une personne portant un turban 
+		👳🏾 une personne portant un turban 
+		👳🏿 une personne portant un turban 
+		👳‍♂️ un homme portant un turban 
+		👳🏻‍♂️ un homme portant un turban 
+		👳🏼‍♂️ un homme portant un turban 
+		👳🏽‍♂️ un homme portant un turban 
+		👳🏾‍♂️ un homme portant un turban 
+		👳🏿‍♂️ un homme portant un turban 
+		👳‍♀️ une femme portant un turban 
+		👳🏻‍♀️ une femme portant un turban 
+		👳🏼‍♀️ une femme portant un turban 
+		👳🏽‍♀️ une femme portant un turban 
+		👳🏾‍♀️ une femme portant un turban 
+		👳🏿‍♀️ une femme portant un turban 
+		👲 un homme avec un chapeau chinois 
+		👲🏻 un homme avec un chapeau chinois 
+		👲🏼 un homme avec un chapeau chinois 
+		👲🏽 un homme avec un chapeau chinois 
+		👲🏾 un homme avec un chapeau chinois 
+		👲🏿 un homme avec un chapeau chinois 
+		👱 une personne blonde 
+		👱🏻 une personne blonde 
+		👱🏼 une personne blonde 
+		👱🏽 une personne blonde 
+		👱🏾 une personne blonde 
+		👱🏿 une personne blonde 
+		👱‍♂️ un blond 
+		👱🏻‍♂️ un blond 
+		👱🏼‍♂️ un blond 
+		👱🏽‍♂️ un blond 
+		👱🏾‍♂️ un blond 
+		👱🏿‍♂️ un blond 
+		👱‍♀️ une blonde 
+		👱🏻‍♀️ une blonde 
+		👱🏼‍♀️ une blonde 
+		👱🏽‍♀️ une blonde 
+		👱🏾‍♀️ une blonde 
+		👱🏿‍♀️ une blonde 
+		🤵 un homme en costard 
+		🤵🏻 un homme en costard 
+		🤵🏼 un homme en costard 
+		🤵🏽 un homme en costard 
+		🤵🏾 un homme en costard 
+		🤵🏿 un homme en costard 
+		👰 une femme mariée 
+		👰🏻 une femme mariée 
+		👰🏼 une femme mariée 
+		👰🏽 une femme mariée 
+		👰🏾 une femme mariée 
+		👰🏿 une femme mariée 
+		🤰 une femme enceinte 
+		🤰🏻 une femme enceinte 
+		🤰🏼 une femme enceinte 
+		🤰🏽 une femme enceinte 
+		🤰🏾 une femme enceinte 
+		🤰🏿 une femme enceinte 
+		👼 un bébé ange 
+		👼🏻 un bébé ange 
+		👼🏼 un bébé ange 
+		👼🏽 un bébé ange 
+		👼🏾 un bébé ange 
+		👼🏿 un bébé ange 
+		🎅 le Père Noël 
+		🎅🏻 le Père Noël 
+		🎅🏼 le Père Noël 
+		🎅🏽 le Père Noël 
+		🎅🏾 le Père Noël 
+		🎅🏿 le Père Noël 
+		🤶 la Mère Noël 
+		🤶🏻 la Mère Noël",
+		🤶🏼 la Mère Noël",
+		🤶🏽 la Mère Noël",
+		🤶🏾 la Mère Noël",
+		🤶🏿 la Mère Noël",
+		🙍 une personne triste 
+		🙍🏻 une personne triste 
+		🙍🏼 une personne triste 
+		🙍🏽 une personne triste 
+		🙍🏾 une personne triste 
+		🙍🏿 une personne triste 
+		🙍‍♂️ un homme triste 
+		🙍🏻‍♂️ un homme triste 
+		🙍🏼‍♂️ un homme triste 
+		🙍🏽‍♂️ un homme triste 
+		🙍🏾‍♂️ un homme triste 
+		🙍🏿‍♂️ un homme triste 
+		🙍‍♀️ une femme triste 
+		🙍🏻‍♀️ une femme triste 
+		🙍🏼‍♀️ une femme triste 
+		🙍🏽‍♀️ une femme triste 
+		🙍🏾‍♀️ une femme triste 
+		🙍🏿‍♀️ une femme triste 
+		🙎 une personne en colère 
+		🙎🏻 une personne en colère 
+		🙎🏼 une personne en colère 
+		🙎🏽 une personne en colère 
+		🙎🏾 une personne en colère 
+		🙎🏿 une personne en colère 
+		🙎‍♂️ un homme en colère 
+		🙎🏻‍♂️ un homme en colère 
+		🙎🏼‍♂️ un homme en colère 
+		🙎🏽‍♂️ un homme en colère 
+		🙎🏾‍♂️ un homme en colère 
+		🙎🏿‍♂️ un homme en colère 
+		🙎‍♀️ une femme en colère 
+		🙎🏻‍♀️ une femme en colère 
+		🙎🏼‍♀️ une femme en colère 
+		🙎🏽‍♀️ une femme en colère 
+		🙎🏾‍♀️ une femme en colère 
+		🙎🏿‍♀️ une femme en colère 
+		🙅 une personne croisant les bras 
+		🙅🏻 une personne croisant les bras 
+		🙅🏼 une personne croisant les bras 
+		🙅🏽 une personne croisant les bras 
+		🙅🏾 une personne croisant les bras 
+		🙅🏿 une personne croisant les bras 
+		🙅‍♂️ un homme croisant les bras 
+		🙅🏻‍♂️ un homme croisant les bras 
+		🙅🏼‍♂️ un homme croisant les bras 
+		🙅🏽‍♂️ un homme croisant les bras 
+		🙅🏾‍♂️ un homme croisant les bras 
+		🙅🏿‍♂️ un homme croisant les bras 
+		🙅‍♀️ une femme croisant les bras 
+		🙅🏻‍♀️ une femme croisant les bras 
+		🙅🏼‍♀️ une femme croisant les bras 
+		🙅🏽‍♀️ une femme croisant les bras 
+		🙅🏾‍♀️ une femme croisant les bras 
+		🙅🏿‍♀️ une femme croisant les bras 
+		🙆 une personne mettant les bras sur la tête 
+		🙆🏻 une personne mettant les bras sur la tête 
+		🙆🏼 une personne mettant les bras sur la tête 
+		🙆🏽 une personne mettant les bras sur la tête 
+		🙆🏾 une personne mettant les bras sur la tête 
+		🙆🏿 une personne mettant les bras sur la tête 
+		🙆‍♂️ un homme mettant les bras sur la tête 
+		🙆🏻‍♂️ un homme mettant les bras sur la tête 
+		🙆🏼‍♂️ un homme mettant les bras sur la tête 
+		🙆🏽‍♂️ un homme mettant les bras sur la tête 
+		🙆🏾‍♂️ un homme mettant les bras sur la tête 
+		🙆🏿‍♂️ un homme mettant les bras sur la tête 
+		🙆‍♀️ une femme mettant les bras sur la tête 
+		🙆🏻‍♀️ une femme mettant les bras sur la tête 
+		🙆🏼‍♀️ une femme mettant les bras sur la tête 
+		🙆🏽‍♀️ une femme mettant les bras sur la tête 
+		🙆🏾‍♀️ une femme mettant les bras sur la tête 
+		🙆🏿‍♀️ une femme mettant les bras sur la tête 
+		💁 une personne portant un plateau invisible 
+		💁🏻 une personne portant un plateau invisible 
+		💁🏼 une personne portant un plateau invisible 
+		💁🏽 une personne portant un plateau invisible 
+		💁🏾 une personne portant un plateau invisible 
+		💁🏿 une personne portant un plateau invisible 
+		💁‍♂️ un homme portant un plateau invisible 
+		💁🏻‍♂️ un homme portant un plateau invisible 
+		💁🏼‍♂️ un homme portant un plateau invisible 
+		💁🏽‍♂️ un homme portant un plateau invisible 
+		💁🏾‍♂️ un homme portant un plateau invisible 
+		💁🏿‍♂️ un homme portant un plateau invisible 
+		💁‍♀️ une femme portant un plateau invisible 
+		💁🏻‍♀️ une femme portant un plateau invisible 
+		💁🏼‍♀️ une femme portant un plateau invisible 
+		💁🏽‍♀️ une femme portant un plateau invisible 
+		💁🏾‍♀️ une femme portant un plateau invisible 
+		💁🏿‍♀️ une femme portant un plateau invisible 
+		🙋 une personne levant la main 
+		🙋🏻 une personne levant la main 
+		🙋🏼 une personne levant la main 
+		🙋🏽 une personne levant la main 
+		🙋🏾 une personne levant la main 
+		🙋🏿 une personne levant la main 
+		🙋‍♂️ un homme levant la main 
+		🙋🏻‍♂️ un homme levant la main 
+		🙋🏼‍♂️ un homme levant la main 
+		🙋🏽‍♂️ un homme levant la main 
+		🙋🏾‍♂️ un homme levant la main 
+		🙋🏿‍♂️ un homme levant la main 
+		🙋‍♀️ une femme levant la main 
+		🙋🏻‍♀️ une femme levant la main 
+		🙋🏼‍♀️ une femme levant la main 
+		🙋🏽‍♀️ une femme levant la main 
+		🙋🏾‍♀️ une femme levant la main 
+		🙋🏿‍♀️ une femme levant la main 
+		🙇 une personne faisant un arc avec les mains 
+		🙇🏻 une personne faisant un arc avec les mains 
+		🙇🏼 une personne faisant un arc avec les mains 
+		🙇🏽 une personne faisant un arc avec les mains 
+		🙇🏾 une personne faisant un arc avec les mains 
+		🙇🏿 une personne faisant un arc avec les mains 
+		🙇‍♂️ un homme faisant un arc avec les mains 
+		🙇🏻‍♂️ un homme faisant un arc avec les mains 
+		🙇🏼‍♂️ un homme faisant un arc avec les mains 
+		🙇🏽‍♂️ un homme faisant un arc avec les mains 
+		🙇🏾‍♂️ un homme faisant un arc avec les mains 
+		🙇🏿‍♂️ un homme faisant un arc avec les mains 
+		🙇‍♀️ une femme faisant un arc avec les mains 
+		🙇🏻‍♀️ une femme faisant un arc avec les mains 
+		🙇🏼‍♀️ une femme faisant un arc avec les mains 
+		🙇🏽‍♀️ une femme faisant un arc avec les mains 
+		🙇🏾‍♀️ une femme faisant un arc avec les mains 
+		🙇🏿‍♀️ une femme faisant un arc avec les mains 
+		🤦 une personne faisant un facepalm 
+		🤦🏻 une personne faisant un facepalm 
+		🤦🏼 une personne faisant un facepalm 
+		🤦🏽 une personne faisant un facepalm 
+		🤦🏾 une personne faisant un facepalm 
+		🤦🏿 une personne faisant un facepalm 
+		🤦‍♂️ un homme faisant un facepalm 
+		🤦🏻‍♂️ un homme faisant un facepalm 
+		🤦🏼‍♂️ un homme faisant un facepalm 
+		🤦🏽‍♂️ un homme faisant un facepalm 
+		🤦🏾‍♂️ un homme faisant un facepalm 
+		🤦🏿‍♂️ un homme faisant un facepalm 
+		🤦‍♀️ une femme faisant un facepalm 
+		🤦🏻‍♀️ une femme faisant un facepalm 
+		🤦🏼‍♀️ une femme faisant un facepalm 
+		🤦🏽‍♀️ une femme faisant un facepalm 
+		🤦🏾‍♀️ une femme faisant un facepalm 
+		🤦🏿‍♀️ une femme faisant un facepalm 
+		🤷 une personne confuse 
+		🤷🏻 une personne confuse 
+		🤷🏼 une personne confuse 
+		🤷🏽 une personne confuse 
+		🤷🏾 une personne confuse 
+		🤷🏿 une personne confuse 
+		🤷‍♂️ un homme confuse 
+		🤷🏻‍♂️ un homme confuse 
+		🤷🏼‍♂️ un homme confuse 
+		🤷🏽‍♂️ un homme confuse 
+		🤷🏾‍♂️ un homme confuse 
+		🤷🏿‍♂️ un homme confuse 
+		🤷‍♀️ une femme confuse 
+		🤷🏻‍♀️ une femme confuse 
+		🤷🏼‍♀️ une femme confuse 
+		🤷🏽‍♀️ une femme confuse 
+		🤷🏾‍♀️ une femme confuse 
+		🤷🏿‍♀️ une femme confuse 
+		💆 une personne se faisant masser 
+		💆🏻 une personne se faisant masser 
+		💆🏼 une personne se faisant masser 
+		💆🏽 une personne se faisant masser 
+		💆🏾 une personne se faisant masser 
+		💆🏿 une personne se faisant masser 
+		💆‍♂️ un homme se faisant masser 
+		💆🏻‍♂️ un homme se faisant masser 
+		💆🏼‍♂️ un homme se faisant masser 
+		💆🏽‍♂️ un homme se faisant masser 
+		💆🏾‍♂️ un homme se faisant masser 
+		💆🏿‍♂️ un homme se faisant masser 
+		💆‍♀️ une femme se faisant masser 
+		💆🏻‍♀️ une femme se faisant masser 
+		💆🏼‍♀️ une femme se faisant masser 
+		💆🏽‍♀️ une femme se faisant masser 
+		💆🏾‍♀️ une femme se faisant masser 
+		💆🏿‍♀️ une femme se faisant masser 
+		💇 une personne se faisant couper les cheveux 
+		💇🏻 une personne se faisant couper les cheveux 
+		💇🏼 une personne se faisant couper les cheveux 
+		💇🏽 une personne se faisant couper les cheveux 
+		💇🏾 une personne se faisant couper les cheveux 
+		💇🏿 une personne se faisant couper les cheveux 
+		💇‍♂️ un homme se faisant couper les cheveux 
+		💇🏻‍♂️ un homme se faisant couper les cheveux 
+		💇🏼‍♂️ un homme se faisant couper les cheveux 
+		💇🏽‍♂️ un homme se faisant couper les cheveux 
+		💇🏾‍♂️ un homme se faisant couper les cheveux 
+		💇🏿‍♂️ un homme se faisant couper les cheveux 
+		💇‍♀️ une femme se faisant couper les cheveux 
+		💇🏻‍♀️ une femme se faisant couper les cheveux 
+		💇🏼‍♀️ une femme se faisant couper les cheveux 
+		💇🏽‍♀️ une femme se faisant couper les cheveux 
+		💇🏾‍♀️ une femme se faisant couper les cheveux 
+		💇🏿‍♀️ une femme se faisant couper les cheveux 
+		🚶 une personne marchant 
+		🚶🏻 une personne marchant 
+		🚶🏼 une personne marchant 
+		🚶🏽 une personne marchant 
+		🚶🏾 une personne marchant 
+		🚶🏿 une personne marchant 
+		🚶‍♂️ un homme marchant 
+		🚶🏻‍♂️ un homme marchant 
+		🚶🏼‍♂️ un homme marchant 
+		🚶🏽‍♂️ un homme marchant 
+		🚶🏾‍♂️ un homme marchant 
+		🚶🏿‍♂️ un homme marchant 
+		🚶‍♀️ une femme marchant 
+		🚶🏻‍♀️ une femme marchant 
+		🚶🏼‍♀️ une femme marchant 
+		🚶🏽‍♀️ une femme marchant 
+		🚶🏾‍♀️ une femme marchant 
+		🚶🏿‍♀️ une femme marchant 
+		🏃 une personne courant 
+		🏃🏻 une personne courant 
+		🏃🏼 une personne courant 
+		🏃🏽 une personne courant 
+		🏃🏾 une personne courant 
+		🏃🏿 une personne courant 
+		🏃‍♂️ un homme courant 
+		🏃🏻‍♂️ un homme courant 
+		🏃🏼‍♂️ un homme courant 
+		🏃🏽‍♂️ un homme courant 
+		🏃🏾‍♂️ un homme courant 
+		🏃🏿‍♂️ un homme courant 
+		🏃‍♀️ une femme courant 
+		🏃🏻‍♀️ une femme courant 
+		🏃🏼‍♀️ une femme courant 
+		🏃🏽‍♀️ une femme courant 
+		🏃🏾‍♀️ une femme courant 
+		🏃🏿‍♀️ une femme courant 
+		💃 une femme dansant 
+		💃🏻 une femme dansant 
+		💃🏼 une femme dansant 
+		💃🏽 une femme dansant 
+		💃🏾 une femme dansant 
+		💃🏿 une femme dansant 
+		🕺 un homme dansant 
+		🕺🏻 un homme dansant 
+		🕺🏼 un homme dansant 
+		🕺🏽 un homme dansant 
+		🕺🏾 un homme dansant 
+		🕺🏿 un homme dansant 
+		👯 des personnes aux oreilles de lapin 
+		👯‍♂️ des hommes aux oreilles de lapin 
+		👯‍♀️ des femmes aux oreilles de lapin 
+		🛀 une personne prenant son bain 
+		🛀🏻 une personne prenant son bain 
+		🛀🏼 une personne prenant son bain 
+		🛀🏽 une personne prenant son bain 
+		🛀🏾 une personne prenant son bain 
+		🛀🏿 une personne prenant son bain 
+		🛌 une personne dans son lit 
+		🛌🏻 une personne dans son lit 
+		🛌🏼 une personne dans son lit 
+		🛌🏽 une personne dans son lit 
+		🛌🏾 une personne dans son lit 
+		🛌🏿 une personne dans son lit 
+		🕴 un homme en lévitation 
+		🕴🏻 un homme en lévitation 
+		🕴🏼 un homme en lévitation 
+		🕴🏽 un homme en lévitation 
+		🕴🏾 un homme en lévitation 
+		🕴🏿 un homme en lévitation 
+		🗣 une tête parlant 
+		👤 une silhouette 
+		👥 des silhouettes 
+		🤺 une personne faisant de l'escrime 
+		🏇 une course de chevaux 
+		🏇🏻 une course de chevaux 
+		🏇🏼 une course de chevaux 
+		🏇🏽 une course de chevaux 
+		🏇🏾 une course de chevaux 
+		🏇🏿 une course de chevaux 
+		⛷ un skieur 
+		🏂 un snowboarder 
+		🏂🏻 un snowboardeur 
+		🏂🏼 un snowboardeur 
+		🏂🏽 un snowboardeur 
+		🏂🏾 un snowboardeur 
+		🏂🏿 un snowboardeur 
+		🏌 un golfeur 
+		🏌🏻 un golfeur 
+		🏌🏼 un golfeur 
+		🏌🏽 un golfeur 
+		🏌🏾 un golfeur 
+		🏌🏿 un golfeur 
+		🏌️‍♂️ un golfeur 
+		🏌🏻‍♂️ un golfeur 
+		🏌🏼‍♂️ un golfeur 
+		🏌🏽‍♂️ un golfeur 
+		🏌🏾‍♂️ un golfeur 
+		🏌🏿‍♂️ un golfeur 
+		🏌️‍♀️ une golfeuse 
+		🏌🏻‍♀️ une golfeuse 
+		🏌🏼‍♀️ une golfeuse 
+		🏌🏽‍♀️ une golfeuse 
+		🏌🏾‍♀️ une golfeuse 
+		🏌🏿‍♀️ une golfeuse 
+		🏄 un surfeur 
+		🏄🏻 un surfeur 
+		🏄🏼 un surfeur 
+		🏄🏽 un surfeur 
+		🏄🏾 un surfeur 
+		🏄🏿 un surfeur 
+		🏄‍♂️ un surfeur 
+		🏄🏻‍♂️ un surfeur 
+		🏄🏼‍♂️ un surfeur 
+		🏄🏽‍♂️ un surfeur 
+		🏄🏾‍♂️ un surfeur 
+		🏄🏿‍♂️ un surfeur 
+		🏄‍♀️ une surfeuse 
+		🏄🏻‍♀️ une surfeuse 
+		🏄🏼‍♀️ une surfeuse 
+		🏄🏽‍♀️ une surfeuse 
+		🏄🏾‍♀️ une surfeuse 
+		🏄🏿‍♀️ une surfeuse 
+		🚣 une personne faisant du bateau 
+		🚣🏻 une personne faisant du bateau 
+		🚣🏼 une personne faisant du bateau 
+		🚣🏽 une personne faisant du bateau 
+		🚣🏾 une personne faisant du bateau 
+		🚣🏿 une personne faisant du bateau 
+		🚣‍♂️ un homme faisant du bateau 
+		🚣🏻‍♂️ un homme faisant du bateau 
+		🚣🏼‍♂️ un homme faisant du bateau 
+		🚣🏽‍♂️ un homme faisant du bateau 
+		🚣🏾‍♂️ un homme faisant du bateau 
+		🚣🏿‍♂️ un homme faisant du bateau 
+		🚣‍♀️ une femme faisant du bateau 
+		🚣🏻‍♀️ une femme faisant du bateau 
+		🚣🏼‍♀️ une femme faisant du bateau 
+		🚣🏽‍♀️ une femme faisant du bateau 
+		🚣🏾‍♀️ une femme faisant du bateau 
+		🚣🏿‍♀️ une femme faisant du bateau 
+		🏊 un nageur 
+		🏊🏻 un nageur 
+		🏊🏼 un nageur 
+		🏊🏽 un nageur 
+		🏊🏾 un nageur 
+		🏊🏿 un nageur 
+		🏊‍♂️ un nageur 
+		🏊🏻‍♂️ un nageur 
+		🏊🏼‍♂️ un nageur 
+		🏊🏽‍♂️ un nageur 
+		🏊🏾‍♂️ un nageur 
+		🏊🏿‍♂️ un nageur 
+		🏊‍♀️ une nageuse 
+		🏊🏻‍♀️ une nageuse 
+		🏊🏼‍♀️ une nageuse 
+		🏊🏽‍♀️ une nageuse 
+		🏊🏾‍♀️ une nageuse 
+		🏊🏿‍♀️ une nageuse 
+		⛹ un basketteur 
+		⛹🏻 un basketteur 
+		⛹🏼 un basketteur 
+		⛹🏽 un basketteur 
+		⛹🏾 un basketteur 
+		⛹🏿 un basketteur 
+		⛹️‍♂️ un basketteur 
+		⛹🏻‍♂️ un basketteur 
+		⛹🏼‍♂️ un basketteur 
+		⛹🏽‍♂️ un basketteur 
+		⛹🏾‍♂️ un basketteur 
+		⛹🏿‍♂️ un basketteur 
+		⛹️‍♀️ une basketteuse 
+		⛹🏻‍♀️ une basketteuse 
+		⛹🏼‍♀️ une basketteuse 
+		⛹🏽‍♀️ une basketteuse 
+		⛹🏾‍♀️ une basketteuse 
+		⛹🏿‍♀️ une basketteuse 
+		🏋 une personne soulevant des poids 
+		🏋🏻 une personne soulevant des poids 
+		🏋🏼 une personne soulevant des poids 
+		🏋🏽 une personne soulevant des poids 
+		🏋🏾 une personne soulevant des poids 
+		🏋🏿 une personne soulevant des poids 
+		🏋️‍♂️ un homme soulevant des poids 
+		🏋🏻‍♂️ un homme soulevant des poids 
+		🏋🏼‍♂️ un homme soulevant des poids 
+		🏋🏽‍♂️ un homme soulevant des poids 
+		🏋🏾‍♂️ un homme soulevant des poids 
+		🏋🏿‍♂️ un homme soulevant des poids 
+		🏋️‍♀️ une femme soulevant des poids 
+		🏋🏻‍♀️ une femme soulevant des poids 
+		🏋🏼‍♀️ une femme soulevant des poids 
+		🏋🏽‍♀️ une femme soulevant des poids 
+		🏋🏾‍♀️ une femme soulevant des poids 
+		🏋🏿‍♀️ une femme soulevant des poids 
+		🚴 une personne faisant du vélo 
+		🚴🏻 une personne faisant du vélo 
+		🚴🏼 une personne faisant du vélo 
+		🚴🏽 une personne faisant du vélo 
+		🚴🏾 une personne faisant du vélo 
+		🚴🏿 une personne faisant du vélo 
+		🚴‍♂️ un homme faisant du vélo 
+		🚴🏻‍♂️ un homme faisant du vélo 
+		🚴🏼‍♂️ un homme faisant du vélo 
+		🚴🏽‍♂️ un homme faisant du vélo 
+		🚴🏾‍♂️ un homme faisant du vélo 
+		🚴🏿‍♂️ un homme faisant du vélo 
+		🚴‍♀️ une femme faisant du vélo 
+		🚴🏻‍♀️ une femme faisant du vélo 
+		🚴🏼‍♀️ une femme faisant du vélo 
+		🚴🏽‍♀️ une femme faisant du vélo 
+		🚴🏾‍♀️ une femme faisant du vélo 
+		🚴🏿‍♀️ une femme faisant du vélo 
+		🚵 une personne faisant du VTT 
+		🚵🏻 une personne faisant du VTT 
+		🚵🏼 une personne faisant du VTT 
+		🚵🏽 une personne faisant du VTT 
+		🚵🏾 une personne faisant du VTT 
+		🚵🏿 une personne faisant du VTT 
+		🚵‍♂️ un homme faisant du VTT 
+		🚵🏻‍♂️ un homme faisant du VTT 
+		🚵🏼‍♂️ un homme faisant du VTT 
+		🚵🏽‍♂️ un homme faisant du VTT 
+		🚵🏾‍♂️ un homme faisant du VTT 
+		🚵🏿‍♂️ un homme faisant du VTT 
+		🚵‍♀️ une femme faisant du VTT 
+		🚵🏻‍♀️ une femme faisant du VTT 
+		🚵🏼‍♀️ une femme faisant du VTT 
+		🚵🏽‍♀️ une femme faisant du VTT 
+		🚵🏾‍♀️ une femme faisant du VTT 
+		🚵🏿‍♀️ une femme faisant du VTT 
+		🏎 une voiture de course 
+		🏍 une moto 
+		🤸 une personne faisant la roue 
+		🤸🏻 une personne faisant la roue 
+		🤸🏼 une personne faisant la roue 
+		🤸🏽 une personne faisant la roue 
+		🤸🏾 une personne faisant la roue 
+		🤸🏿 une personne faisant la roue 
+		🤸‍♂️ un homme faisant la roue 
+		🤸🏻‍♂️ un homme faisant la roue 
+		🤸🏼‍♂️ un homme faisant la roue 
+		🤸🏽‍♂️ un homme faisant la roue 
+		🤸🏾‍♂️ un homme faisant la roue 
+		🤸🏿‍♂️ un homme faisant la roue 
+		🤸‍♀️ une femme faisant la roue 
+		🤸🏻‍♀️ une femme faisant la roue 
+		🤸🏼‍♀️ une femme faisant la roue 
+		🤸🏽‍♀️ une femme faisant la roue 
+		🤸🏾‍♀️ une femme faisant la roue 
+		🤸🏿‍♀️ une femme faisant la roue 
+		🤼 des personnes se battant 
+		🤼‍♂️ des hommes se battant 
+		🤼‍♀️ des femmes se battant 
+		🤽 une personne jouant au water-polo 
+		🤽🏻 une personne jouant au water-polo 
+		🤽🏼 une personne jouant au water-polo 
+		🤽🏽 une personne jouant au water-polo 
+		🤽🏾 une personne jouant au water-polo 
+		🤽🏿 une personne jouant au water-polo 
+		🤽‍♂️ un homme jouant au water-polo 
+		🤽🏻‍♂️ un homme jouant au water-polo 
+		🤽🏼‍♂️ un homme jouant au water-polo 
+		🤽🏽‍♂️ un homme jouant au water-polo 
+		🤽🏾‍♂️ un homme jouant au water-polo 
+		🤽🏿‍♂️ un homme jouant au water-polo 
+		🤽‍♀️ une femme jouant au water-polo 
+		🤽🏻‍♀️ une femme jouant au water-polo 
+		🤽🏼‍♀️ une femme jouant au water-polo 
+		🤽🏽‍♀️ une femme jouant au water-polo 
+		🤽🏾‍♀️ une femme jouant au water-polo 
+		🤽🏿‍♀️ une femme jouant au water-polo 
+		🤾 une personne jouant au handball 
+		🤾🏻 une personne jouant au handball 
+		🤾🏼 une personne jouant au handball 
+		🤾🏽 une personne jouant au handball 
+		🤾🏾 une personne jouant au handball 
+		🤾🏿 une personne jouant au handball 
+		🤾‍♂️ un homme jouant au handball 
+		🤾🏻‍♂️ un homme jouant au handball 
+		🤾🏼‍♂️ un homme jouant au handball 
+		🤾🏽‍♂️ un homme jouant au handball 
+		🤾🏾‍♂️ un homme jouant au handball 
+		🤾🏿‍♂️ un homme jouant au handball 
+		🤾‍♀️ une femme jouant au handball 
+		🤾🏻‍♀️ une femme jouant au handball 
+		🤾🏼‍♀️ une femme jouant au handball 
+		🤾🏽‍♀️ une femme jouant au handball 
+		🤾🏾‍♀️ une femme jouant au handball 
+		🤾🏿‍♀️ une femme jouant au handball 
+		🤹 une personne jonglant 
+		🤹🏻 une personne jonglant 
+		🤹🏼 une personne jonglant 
+		🤹🏽 une personne jonglant 
+		🤹🏾 une personne jonglant 
+		🤹🏿 une personne jonglant 
+		🤹‍♂️ un homme jonglant 
+		🤹🏻‍♂️ un homme jonglant 
+		🤹🏼‍♂️ un homme jonglant 
+		🤹🏽‍♂️ un homme jonglant 
+		🤹🏾‍♂️ un homme jonglant 
+		🤹🏿‍♂️ un homme jonglant 
+		🤹‍♀️ une femme jonglant 
+		🤹🏻‍♀️ une femme jonglant 
+		🤹🏼‍♀️ une femme jonglant 
+		🤹🏽‍♀️ une femme jonglant 
+		🤹🏾‍♀️ une femme jonglant 
+		🤹🏿‍♀️ une femme jonglant 
+		👫 un homme et une femme se tenant la main 
+		👬 deux hommes se tenant la main 
+		👭 deux femmes se tenant la main 
+		💏 un baiser 
+		👩‍❤️‍💋‍👨 un baiser: femme, homme 
+		👨‍❤️‍💋‍👨 un baiser: homme, homme 
+		👩‍❤️‍💋‍👩 un baiser: femme, femme 
+		💑 un couple amoureux 
+		👩‍❤️‍👨 un couple amoureux: femme, homme 
+		👨‍❤️‍👨 un couple amoureux: homme, homme 
+		👩‍❤️‍👩 un couple amoureux: femme, femme 
+		👪 une famille 
+		👨‍👩‍👦 une famille: homme, femme, garçon 
+		👨‍👩‍👧 une famille: homme, femme, fille 
+		👨‍👩‍👧‍👦 une famille: homme, femme, fille, garçon 
+		👨‍👩‍👦‍👦 une famille: homme, femme, garçon, garçon 
+		👨‍👩‍👧‍👧 une famille: homme, femme, fille, fille 
+		👨‍👨‍👦 une famille: homme, homme, garçon 
+		👨‍👨‍👧 une famille: homme, homme, fille 
+		👨‍👨‍👧‍👦 une famille: homme, homme, fille, garçon 
+		👨‍👨‍👦‍👦 une famille: homme, homme, garçon, garçon 
+		👨‍👨‍👧‍👧 une famille: homme, homme, fille, fille 
+		👩‍👩‍👦 une famille: femme, femme, garçon 
+		👩‍👩‍👧 une famille: femme, femme, fille 
+		👩‍👩‍👧‍👦 une famille: femme, femme, fille, garçon 
+		👩‍👩‍👦‍👦 une famille: femme, femme, garçon, garçon 
+		👩‍👩‍👧‍👧 une famille: femme, femme, fille, fille 
+		👨‍👦 une famille: homme, garçon 
+		👨‍👦‍👦 une famille: homme, garçon, garçon 
+		👨‍👧 une famille: homme, fille 
+		👨‍👧‍👦 une famille: homme, fille, garçon 
+		👨‍👧‍👧 une famille: homme, fille, fille 
+		👩‍👦 une famille: femme, garçon 
+		👩‍👦‍👦 une famille: femme, garçon, garçon 
+		👩‍👧 une famille: femme, fille 
+		👩‍👧‍👦 une famille: femme, fille, garçon 
+		👩‍👧‍👧 une famille: femme, fille, fille 
+		🤳 un selfie 
+		🤳🏻 un selfie 
+		🤳🏼 un selfie 
+		🤳🏽 un selfie 
+		🤳🏾 un selfie 
+		🤳🏿 un selfie 
+		💪 un biceps fléchi 
+		💪🏻 un biceps fléchi 
+		💪🏼 un biceps fléchi 
+		💪🏽 un biceps fléchi 
+		💪🏾 un biceps fléchi 
+		💪🏿 un biceps fléchi 
+		👈 un index pointant à gauche 
+		👈🏻 un index pointant à gauche 
+		👈🏼 un index pointant à gauche 
+		👈🏽 un index pointant à gauche 
+		👈🏾 un index pointant à gauche 
+		👈🏿 un index pointant à gauche 
+		👉 un index pointant à droite 
+		👉🏻 un index pointant à droite 
+		👉🏼 un index pointant à droite 
+		👉🏽 un index pointant à droite 
+		👉🏾 un index pointant à droite 
+		👉🏿 un index pointant à droite 
+		☝ un index pointant vers le haut 
+		☝🏻 un index pointant vers le haut 
+		☝🏼 un index pointant vers le haut 
+		☝🏽 un index pointant vers le haut 
+		☝🏾 un index pointant vers le haut 
+		☝🏿 un index pointant vers le haut 
+		👆 un index pointant vers le haut 
+		👆🏻 un index pointant vers le haut 
+		👆🏼 un index pointant vers le haut 
+		👆🏽 un index pointant vers le haut 
+		👆🏾 un index pointant vers le haut 
+		👆🏿 un index pointant vers le haut 
+		🖕 un doigt d'honneur 
+		🖕🏻 un doigt d'honneur 
+		🖕🏼 un doigt d'honneur 
+		🖕🏽 un doigt d'honneur 
+		🖕🏾 un doigt d'honneur 
+		🖕🏿 un doigt d'honneur 
+		👇 un index pointant vers le bas 
+		👇🏻 un index pointant vers le bas 
+		👇🏼 un index pointant vers le bas 
+		👇🏽 un index pointant vers le bas 
+		👇🏾 un index pointant vers le bas 
+		👇🏿 un index pointant vers le bas 
+		✌ une main avec les doigts en V 
+		✌🏻 une main avec les doigts en V 
+		✌🏼 une main avec les doigts en V 
+		✌🏽 une main avec les doigts en V 
+		✌🏾 une main avec les doigts en V 
+		✌🏿 une main avec les doigts en V 
+		🤞 les doigts croisés 
+		🤞🏻 les doigts croisés 
+		🤞🏼 les doigts croisés 
+		🤞🏽 les doigts croisés 
+		🤞🏾 les doigts croisés 
+		🤞🏿 les doigts croisés 
+		🖖 un salut vulcain 
+		🖖🏻 un salut vulcain 
+		🖖🏼 un salut vulcain 
+		🖖🏽 un salut vulcain 
+		🖖🏾 un salut vulcain 
+		🖖🏿 un salut vulcain 
+		🤘 le signe des cornes 
+		🤘🏻 le signe des cornes 
+		🤘🏼 le signe des cornes 
+		🤘🏽 le signe des cornes 
+		🤘🏾 le signe des cornes 
+		🤘🏿 le signe des cornes 
+		🤙 une main 'appelle-moi' 
+		🤙🏻 une main 'appelle-moi' 
+		🤙🏼 une main 'appelle-moi' 
+		🤙🏽 une main 'appelle-moi' 
+		🤙🏾 une main 'appelle-moi' 
+		🤙🏿 une main 'appelle-moi' 
+		🖐 une main avec les doigts dépliés 
+		🖐🏻 une main avec les doigts dépliés 
+		🖐🏼 une main avec les doigts dépliés 
+		🖐🏽 une main avec les doigts dépliés 
+		🖐🏾 une main avec les doigts dépliés 
+		🖐🏿 une main avec les doigts dépliés 
+		✋ une main levée 
+		✋🏻 une main levée 
+		✋🏼 une main levée 
+		✋🏽 une main levée 
+		✋🏾 une main levée 
+		✋🏿 une main levée 
+		👌 une main OK 
+		👌🏻 une main OK 
+		👌🏼 une main OK 
+		👌🏽 une main OK 
+		👌🏾 une main OK 
+		👌🏿 une main OK 
+		👍 un pouce levé 
+		👍🏻 un pouce levé 
+		👍🏼 un pouce levé 
+		👍🏽 un pouce levé 
+		👍🏾 un pouce levé 
+		👍🏿 un pouce levé 
+		👎 un pouce baissé 
+		👎🏻 un pouce baissé  
+		👎🏼 un pouce baissé 
+		👎🏽 un pouce baissé 
+		👎🏾 un pouce baissé 
+		👎🏿 un pouce baissé 
+		✊ un poing levé 
+		✊🏻 un poing levé 
+		✊🏼 un poing levé 
+		✊🏽 un poing levé 
+		✊🏾 un poing levé 
+		✊🏿 un poing levé 
+		👊 un poing 
+		👊🏻 un poing 
+		👊🏼 un poing 
+		👊🏽 un poing 
+		👊🏾 un poing 
+		👊🏿 un poing 
+		🤛 un poing allant à gauche 
+		🤛🏻 un poing allant à gauche 
+		🤛🏼 un poing allant à gauche 
+		🤛🏽 un poing allant à gauche 
+		🤛🏾 un poing allant à gauche 
+		🤛🏿 un poing allant à gauche 
+		🤜 un poing allant à droite 
+		🤜🏻 un poing allant à droite 
+		🤜🏼 un poing allant à droite 
+		🤜🏽 un poing allant à droite 
+		🤜🏾 un poing allant à droite 
+		🤜🏿 un poing allant à droite 
+		🤚 un dos de main levée 
+		🤚🏻 un dos de main levée 
+		🤚🏼 un dos de main levée 
+		🤚🏽 un dos de main levée 
+		🤚🏾 un dos de main levée 
+		🤚🏿 un dos de main levée 
+		👋 une main secouée 
+		👋🏻 une main secouée 
+		👋🏼 une main secouée 
+		👋🏽 une main secouée 
+		👋🏾 une main secouée 
+		👋🏿 une main secouée 
+		✍ une main en train d'écrire 
+		✍🏻 une main en train d'écrire 
+		✍🏼 une main en train d'écrire 
+		✍🏽 une main en train d'écrire 
+		✍🏾 une main en train d'écrire 
+		✍🏿 une main en train d'écrire 
+		👏 des applaudissements 
+		👏🏻 des applaudissements 
+		👏🏼 des applaudissements 
+		👏🏽 des applaudissements 
+		👏🏾 des applaudissements 
+		👏🏿 des applaudissements 
+		👐 des mains ouvertes 
+		👐🏻 des mains ouvertes 
+		👐🏼 des mains ouvertes 
+		👐🏽 des mains ouvertes 
+		👐🏾 des mains ouvertes 
+		👐🏿 des mains ouvertes 
+		🙌 des mains levées 
+		🙌🏻 des mains levées 
+		🙌🏼 des mains levées 
+		🙌🏽 des mains levées 
+		🙌🏾 des mains levées 
+		🙌🏿 des mains levées 
+		🙏 des mains priant 
+		🙏🏻 des mains priant 
+		🙏🏼 des mains priant 
+		🙏🏽 des mains priant 
+		🙏🏾 des mains priant 
+		🙏🏿 des mains priant 
+		🤝 une poignée de main 
+		💅 du vernis à ongles 
+		💅🏻 du vernis à ongles 
+		💅🏼 du vernis à ongles 
+		💅🏽 du vernis à ongles 
+		💅🏾 du vernis à ongles 
+		💅🏿 du vernis à ongles 
+		👂 une oreille 
+		👂🏻 une oreille 
+		👂🏼 une oreille 
+		👂🏽 une oreille 
+		👂🏾 une oreille 
+		👂🏿 une oreille 
+		👃 un nez 
+		👃🏻 un nez 
+		👃🏼 un nez 
+		👃🏽 un nez 
+		👃🏾 un nez 
+		👃🏿 un nez 
+		👣 des empreintes de pas 
+		👀 des yeux 
+		👁 un œil 
+		👁️‍🗨️ un œil dans une bulle de parole 
+		👅 une langue 
+		👄 une bouche 
+		💋 un baiser 
+		💘 un cœur transpercé par une flèche 
+		❤ un cœur rouge 
+		💓 un cœur qui bat 
+		💔 un cœur brisé 
+		💕 deux cœurs 
+		💖 un cœur avec des paillettes 
+		💗 un cœur qui grandit 
+		💙 un cœur bleu 
+		💚 un cœur vert 
+		💛 un cœur jaune 
+		💜 un cœur violet 
+		🖤 un cœur noir 
+		💝 un cœur avec ruban 
+		💞 deux cœurs qui tournent 
+		💟 une décoration en cœur 
+		❣ un point d'exclamation en forme de cœur 
+		💌 une lettre d'amour 
+		💤 le sommeil 
+		💢 la colère 
+		💣 une bombe 
+		💥 une explosion 
+		💦 des gouttes 
+		💨 le vent 
+		💫 l'étourdissement 
+		💬 une bulle de parole 
+		🗨 une bulle de parole à gauche 
+		🗯 une bulle de colère 
+		💭 une bulle de pensée 
+		🕳 un trou 
+		👓 des lunettes 
+		🕶 des lunettes de soleil 
+		👔 une cravate 
+		👕 un t-shirt 
+		👖 un jean 
+		👗 une robe 
+		👘 un kimono 
+		👙 un bikini 
+		👚 des vêtements pour femme 
+		👛 une sacoche 
+		👜 un sac à main 
+		👝 une trousse 
+		🛍 le shopping 
+		🎒 un sac à dos 
+		👞 des chaussures pour homme 
+		👟 des baskets 
+		👠 des talons-hauts 
+		👡 des sandales pour femme 
+		👢 des bottes pour femme 
+		👑 une couronne 
+		👒 un chapeau pour femme 
+		🎩 un haut-de-forme 
+		🎓 un couvre-chef 
+		⛑ un chapeau de secouriste 
+		📿 un chapelet 
+		💄 du rouge à lèvres 
+		💍 une bague 
+		💎 un diamant 
+		🐵 un singe 
+		🐒 un singe 
+		🦍 un gorille 
+		🐶 un chien 
+		🐕 un chien 
+		🐩 un caniche 
+		🐺 un loup 
+		🦊 un renard 
+		🐱 un chat 
+		🐈 un chat 
+		🦁 un lion 
+		🐯 un tigre 
+		🐅 un tigre 
+		🐆 un léopard 
+		🐴 un cheval 
+		🐎 un cheval 
+		🦄 une licorne 
+		🦌 un cerf 
+		🐮 une vache 
+		🐂 un bœuf 
+		🐃 un buffle 
+		🐄 une vache 
+		🐷 un cochon 
+		🐖 un cochon 
+		🐗 un sanglier 
+		🐽 un nez de cochon 
+		🐏 un bélier 
+		🐑 un mouton 
+		🐐 une chèvre 
+		🐪 un dromadaire 
+		🐫 un chameau 
+		🐘 un éléphant 
+		🦏 un rhinocéros 
+		🐭 un rat 
+		🐁 une souris 
+		🐀 un rat 
+		🐹 un hamster 
+		🐰 un lapin 
+		🐇 un lapin 
+		🐿 un tamia 
+		🦇 une chauve-souris 
+		🐻 un ours 
+		🐨 un koala 
+		🐼 un panda 
+		🐾 des empreintes de pattes 
+		🦃 une dinde 
+		🐔 une poule 
+		🐓 un coq 
+		🐣 un poussin 
+		🐤 un poussin 
+		🐥 un poussin vu de face 
+		🐦 un oiseau 
+		🐧 un manchot 
+		🕊 une colombe 
+		🦅 un aigle 
+		🦆 un canard 
+		🦉 une chouette 
+		🐸 une grenouille 
+		🐊 Lacoste 
+		🐢 une tortue 
+		🦎 un lézard 
+		🐍 un serpent 
+		🐲 Krokmou 
+		🐉 Krokmou 
+		🐳 un cachalot 
+		🐋 une baleine 
+		🐬 un dauphin 
+		🐟 un poisson 
+		🐠 un poisson tropical 
+		🐡 un poisson-globe 
+		🦈 un requin 
+		🐙 une pieuvre 
+		🐚 un coquillage 
+		🦀 un crabe 
+		🦐 une crevette 
+		🦑 un calmar 
+		🐌 un escargot 
+		🦋 un papillon 
+		🐛 un insecte 
+		🐜 une fourmi 
+		🐝 une abeille 
+		🐞 une coccinelle 
+		🕷 une araignée 
+		🕸 une toile d'araignée 
+		🦂 un scorpion 
+		💐 un bouquet 
+		🌸 une fleur de cerisier 
+		💮 une fleur de cerisier 
+		🏵 une rosette 
+		🌹 une rose 
+		🥀 une fleur fanée 
+		🌺 un hibiscus 
+		🌻 un tournesol 
+		🌼 une fleur 
+		🌷 une tulipe 
+		🌱 une graine 
+		🌲 un arbre conifère 
+		🌳 un arbre feuillu 
+		🌴 un palmier 
+		🌵 un cactus 
+		🌾 du riz 
+		🌿 une herbe 
+		☘ un trèfle 
+		🍀 un trèfle à quatre feuilles 
+		🍁 une feuille d'érable 
+		🍂 des feuilles mortes 
+		🍃 une feuilles flottant dans le vent 
+		🍇 des raisins 
+		🍈 un melon 
+		🍉 une pastèque 
+		🍊 une orange 
+		🍋 un citron 
+		🍌 une banane 
+		🍍 un ananas 
+		🍎 une pomme rouge 
+		🍏 une pomme verte 
+		🍐 une poire 
+		🍑 une pêche 
+		🍒 des cerises 
+		🍓 une fraise 
+		🥝 un kiwi 
+		🍅 une tomate 
+		🥑 un avocat 
+		🍆 une aubergine 
+		🥔 une patate 
+		🥕 une carotte 
+		🌽 un épi de maïs 
+		🌶 un piment 
+		🥒 un concombre 
+		🍄 un champignon 
+		🥜 des cacahuètes 
+		🌰 un marron 
+		🍞 du pain 
+		🥐 un croissant 
+		🥖 une baguette 
+		🥞 des pancakes 
+		🧀 du fromage 
+		🍖 de la viande 
+		🍗 une cuisse de volaille 
+		🥓 du bacon 
+		🍔 un hamburger 
+		🍟 des frites 
+		🍕 une part de pizza 
+		🌭 un hot-dog 
+		🌮 un taco 
+		🌯 un burrito 
+		🥙 un McWrap 
+		🥚 un œuf 
+		🍳 la cuisine 
+		🥘 une casserole de nourriture 
+		🍲 un pot de nourriture 
+		🥗 de la salade 
+		🍿 du popcorn 
+		🍱 une boîte bento 
+		🍘 un cracker au riz 
+		🍙 une boule de riz 
+		🍚 du riz cuit 
+		🍛 du riz au curry 
+		🍜 un bol chaud 
+		🍝 des pâtes 
+		🍠 une patate douce 
+		🍢 un oden 
+		🍣 des sushi 
+		🍤 une crevette frite 
+		🍥 un gâteau de poisson 
+		🍡 un dango 
+		🍦 une glace à l'italienne 
+		🍧 de la glace pilée 
+		🍨 une glace 
+		🍩 un donut 
+		🍪 un cookie 
+		🎂 un gâteau d'anniversaire 
+		🍰 un gâteau 
+		🍫 du chocolat 
+		🍬 un bonbon 
+		🍭 une sucette 
+		🍮 du flan 
+		🍯 du miel 
+		🍼 un biberon 
+		🥛 du lait 
+		☕ un café chaud 
+		🍵 un bol de thé 
+		🍶 du saké 
+		🍾 du champagne 
+		🍷 du vin 
+		🍸 un cocktail 
+		🍹 une boisson exotique 
+		🍺 de la bière 
+		🍻 des verres de bière 
+		🥂 des verres de champagne 
+		🥃 un shot 
+		🍽 des couverts avec une assiette 
+		🍴 des couverts 
+		🥄 une cuillère 
+		🔪 un couteau 
+		🏺 une amphore 
+		🌍 un globe montrant l'Europe et l'Afrique 
+		🌎 un globe montrant l'Amérique 
+		🌏 un globe montrant l'Asie et l'Australie 
+		🌐 un globe avec des méridiens 
+		🗺 un planisphère 
+		🗾 une carte du Japon 
+		🏔 une montagne enneigée 
+		⛰ une montagne 
+		🌋 un volcan 
+		🗻 le mont Fuji 
+		🏕  le camping 
+		🏖 une plage 
+		🏜 un désert 
+		🏝 une île tropicale 
+		🏞 un parc national 
+		🏟 un stade 
+		🏛 un bâtiment 
+		🏗 un chantier 
+		🏘 des maisons 
+		🏙 une ville 
+		🏚 un maison insalubre 
+		🏠 une maison 
+		🏡 une maison avec jardin 
+		🏢 un immeuble 
+		🏣 un bureau de poste japonais 
+		🏤 un bureau de poste 
+		🏥 un hôpital 
+		🏦 une banque 
+		🏨 un hôtel 
+		🏩 un hôtel de charme 
+		🏪 une supérette 
+		🏫 une école 
+		🏬 un magasin 
+		🏭 une usine 
+		🏯 un temple japonais 
+		🏰 un château 
+		🗼 la tour de Tokyo 
+		🗽 la Statue de la Liberté 
+		⛩ un sanctuaire shinto 
+		⛲ une fontaine 
+		⛺ une tente 
+		🌁 le brouillard 
+		🌃 une nuit étoilée 
+		🌄 le lever du soleil sur les montagnes 
+		🌅 le lever du soleil 
+		🌆 une ville au crépuscule 
+		🌇 le coucher du soleil 
+		🌉 un pont pendant la nuit 
+		♨ des sources chaudes 
+		🌌 la Voie Lactée 
+		🎠 un cheval de carrousel 
+		🎡 une grande roue 
+		🎢 une montagne russe 
+		💈 une enseigne de barbier 
+		🎪 un cirque 
+		🎭 les arts 
+		🖼 un photo encadrée 
+		🎨 une palette 
+		🎰 le casino 
+		🚂 une locomotive 
+		🚃 un wagon 
+		🚄 le TGV 
+		🚅 le train 
+		🚆 le train 
+		🚇 le métro 
+		🚈 le TGV 
+		🚉 la gare 
+		🚊 le tram 
+		🚝 le monorail 
+		🚞 le train de montagne 
+		🚋 le tram 
+		🚌 un bus 
+		🚍 un bus 
+		🚎 un minibus 
+		🚐 un minibus 
+		🚑 une ambulance 
+		🚒 un camion de pomiers 
+		🚓 une voiture de police 
+		🚔 une voiture de police 
+		🚕 un taxi 
+		🚖 un taxi 
+		🚗 une voiture 
+		🚘 une voiture 
+		🚙 un véhicule utilitaire 
+		🚚 une camion de livraison 
+		🚛 un camion articulé 
+		🚜 un tracteur 
+		🚲 un vélo 
+		🛴 une trottinette 
+		🛵 un scooter 
+		🚏 un arrêt de bus 
+		🛣 un chemin 
+		🛤 une piste de rails 
+		⛽ une station-service 
+		🚨 un gyrophare 
+		🚥 un feu tricolore horizontal 
+		🚦 un feu tricolore vertical 
+		🚧 un panneau de construction 
+		🛑 un panneau stop 
+		⚓ une ancre 
+		⛵ un bâteau à voile 
+		🛶 un canoë 
+		🚤 un jet 
+		🛳 un paquebot 
+		⛴ un ferry 
+		🛥 un bâteau à moteur 
+		🚢 un bâteau 
+		✈ un avion 
+		🛩 un petit avion 
+		🛫 un avion qui décolle 
+		🛬 un avion qui atterrit 
+		💺 un siège 
+		🚁 un hélicoptère 
+		🚟 un téléphérique 
+		🚠 un téléphérique 
+		🚡 un tramway aérien 
+		🛰 un satellite 
+		🚀 une fusée 
+		🛎 une sonnette 
+		🚪 une porte 
+		🛏 un lit 
+		🛋 un salon 
+		🚽 des toilettes 
+		🚿 une douche 
+		🛁 une baignoire 
+		⌛ un sablier terminé 
+		⏳ un sablier pas terminé 
+		⌚ une montre 
+		⏰ un réveil 
+		⏱ un chronomètre 
+		⏲ un minuteur 
+		🕰 une horloge de cheminée 
+		🕛 à midi 
+		🕧 à midi trente 
+		🕐 à une heure 
+		🕜 à une heure trente 
+		🕑 à deux heures 
+		🕝 à deux heures trente 
+		🕒 à trois heures 
+		🕞 à trois heures trente 
+		🕓 à quatre heures 
+		🕟 à quatre heures trente 
+		🕔 à cinq heures 
+		🕠 à cinq heures trente 
+		🕕 à six heures 
+		🕡 à six heures trente 
+		🕖 à sept heures 
+		🕢 à sept heures trente 
+		🕗 à huit heures 
+		🕣 à huit heures trente 
+		🕘 à neuf heures 
+		🕤 à neuf heures trente 
+		🕙 à dix heures 
+		🕥 à dix heures trente 
+		🕚 à onze heures 
+		🕦 à onze heures trente 
+		🌑 la nouvelle Lune 
+		🌒 le premier croissant 
+		🌓 le premier quartier 
+		🌔 la gibbeuse croissante 
+		🌕 la pleine Lune 
+		🌖 la gibbeuse décroissante 
+		🌗 le dernier quartier 
+		🌘 le dernier croissant 
+		🌙 un croissant de Lune 
+		🌚 la nouvelle Lune 
+		🌛 le premier quartier 
+		🌜 le dernier quartier 
+		🌡 une thermomètre 
+		☀ le Soleil 
+		🌝 la pleine Lune 
+		🌞 le Soleil 
+		⭐ une étoile 
+		🌟 une étoile qui brille 
+		🌠 une étoile filante 
+		☁ un nuage 
+		⛅ le Soleil derrière un nuage 
+		⛈ un nuage avec un éclair et de la pluie 
+		🌤 le soleil derrière un petit nuage 
+		🌥 le soleil derrière un gros nuage 
+		🌦 le soleil derrière un nuage de pluie 
+		🌧 un nuage avec de la pluie 
+		🌨 un nuage avec de la neige 
+		🌩 un nuage avec un éclair 
+		🌪 une tornade 
+		🌫 le brouillard 
+		🌬 le vent 
+		🌀 un cyclone 
+		🌈 un gay 
+		🌂 un parapluie fermé 
+		☂ un parapluie 
+		☔ la pluie 
+		⛱ un parasol 
+		⚡ un courant à haute tension 
+		❄ un flocon de neige 
+		☃ un bonhomme de neige 
+		⛄ un bonhomme de neige 
+		☄ une comète 
+		🔥 du feu 
+		💧 une goutte 
+		🌊 une vague 
+		🎃 une citrouille-lanterne 
+		🎄 un sapin de Noël 
+		🎆 des feux d'artifice 
+		🎇 un cierge magique 
+		✨ des paillettes 
+		🎈 un ballon 
+		🎉 une bombe de fête 
+		🎊 des confetti 
+		🎋 un arbre de Tanabata 
+		🎍 du bambou 
+		🎎 des poupées japonaises 
+		🎏 des banderoles de carpe 
+		🎐 des carillons 
+		🎑 une cérémonie 
+		🎀 un ruban 
+		🎁 un cadeau 
+		🎗 le SIDA 
+		🎟 des tickets d'entrée 
+		🎫 un ticket 
+		🎖 une médaille militaire 
+		🏆 un trophée 
+		🏅 une métaille sportive 
+		🥇 une médaille 1ère 
+		🥈 une médaille 2ème 
+		🥉 une médaille 3ème 
+		⚽ le football 
+		⚾ le baseball 
+		🏀 le basketball 
+		🏐 le volleyball 
+		🏈 le football américain 
+		🏉 le rugby 
+		🎾 le tennis 
+		🎱 le billard 
+		🎳 le bowling 
+		🏏 le cricket 
+		🏑 le hockey 
+		🏒 le hockey sur glace 
+		🏓 le ping pong 
+		🏸 le badminton 
+		🥊 la boxe 
+		🥋 les arts martiaux 
+		🥅 un but 
+		🎯 une cible 
+		⛳ le golf 
+		⛸ des patins à glace 
+		🎣 la pêche 
+		🎽 un t-shirt de marathon 
+		🎿 des skis 
+		🎮 un jeu vidéo 
+		🕹 un joystick 
+		🎲 un dé 
+		♠ un pique 
+		♥ un cœur 
+		♦ un carreau 
+		♣ un trèfle 
+		🃏 un joker 
+		🀄 le mahjong 
+		🎴 des cartes à jouer 
+		🔇 le son coupé 
+		🔈 un haut-parleur en volume bas 
+		🔉 un haut-parleur en volume moyen 
+		🔊 un haut-parleur en volume élevé 
+		📢 un mégaphone",
+		📣 un porte-voix 
+		📯 une corne de brume 
+		🔔 une cloche 
+		🔕 une cloche coupée 
+		🎼 une partition 
+		🎵 de la musique 
+		🎶 des notes de musique 
+		🎙 un microphone 
+		🎚 un curseur 
+		🎛 des potentiomètres 
+		🎤 un microphone 
+		🎧 des écouteurs 
+		📻 la radio 
+		🎷 le saxophone 
+		🎸 la guitare 
+		🎹 le piano 
+		🎺 la trompette 
+		🎻 le violon 
+		🥁 une percussion 
+		📱 un smartphone 
+		📲 un smartphone avec une flèche 
+		☎ un téléphone 
+		📞 un combiné téléphonique 
+		📟 la radiomessagerie 
+		📠 un télécopieur 
+		🔋 une batterie 
+		🔌 une prise électrique 
+		💻 une ordinateur portable 
+		🖥 un ordinateur de bureau 
+		🖨 une imprimante 
+		⌨ un clavier 
+		🖱 une souris 
+		🖲 un trackball 
+		💽 un disque 
+		💾 une disquette 
+		💿 un CD 
+		📀 un DVD 
+		🎥 une caméra 
+		🎞 de la pellicule 
+		📽 un projecteur 
+		🎬 un clap 
+		📺 un téléviseur 
+		📷 un appareil photo 
+		📸 un appareil photo avec flash 
+		📹 une caméra vidéo 
+		📼 une cassette VHS 
+		🔍 une loupe 
+		🔎 une loupe 
+		🔬 un microscope 
+		🔭 un téléscope 
+		📡 une parabole 
+		🕯 une bougie 
+		💡 une ampoule 
+		🔦 une lampe torche 
+		🏮 une lanterne en papier 
+		📔 un cahier 
+		📕 un livre fermé 
+		📖 la lecture 
+		📗 une livre vert 
+		📘 une livre bleu 
+		📙 un livre orange 
+		📚 des livres 
+		📓 un carnet de notes 
+		📒 un cahier 
+		📃 une page enroulée 
+		📜 un parchemin 
+		📄 une page 
+		📰 un journal 
+		🗞 un journal enroulé 
+		📑 des marque-pages 
+		🔖 un marque-pages 
+		🏷 une étiquette 
+		💰 de l'argent 
+		💴 un billet de Yen ¥ 
+		💵 un billet de dollars $ 
+		💶 un billet d'euros € 
+		💷 un billet de livres sterling £ 
+		💸 l'argent jeté par les fenêtres 
+		💳 une carte de crédit 
+		💹 la bourse 
+		💱 le change 
+		💲 un dollar 
+		✉ une enveloppe 
+		📧 une e-mail 
+		📨 une enveloppe qui arrive 
+		📩 une enveloppe avec une flèche 
+		📤 un plateau",
+		📥 un plateau 
+		📦 un colis 
+		📫 une boîte aux lettres fermée et déverrouillée 
+		📪 une boîte aux lettres fermée et verrouillée 
+		📬 une boîte aux lettres ouverte avec courrier 
+		📭 une boîte aux lettres ouverte sans courrier 
+		📮 une postbox 
+		🗳 une urne 
+		✏ un crayon 
+		✒ une pointe de stylo 
+		🖋 un stylo 
+		🖊 un bic 
+		🖌 un pinceau 
+		🖍 un pastel 
+		📝 un mémo 
+		💼 une attaché-case 
+		📁 un dossier 
+		📂 un dossier ouvert 
+		🗂 des classeurs 
+		📅 un calendrier 
+		📆 un calendrier à pages détachables 
+		🗒 un carnet de notes 
+		🗓 un calendrier 
+		📇 des fiches 
+		📈 un graphique à la hausse 
+		📉 un graphique à la baisse 
+		📊 un graphique en bandelettes 
+		📋 un presse-papiers 
+		📌 une punaise 
+		📍 une punaise arrondie 
+		📎 un trombone 
+		🖇 des trombones liés 
+		📏 une règle 
+		📐 une équerre 
+		✂ des ciseaux 
+		🗃 une card file box 
+		🗄 une tiroir à documents 
+		🗑 une corbeille 
+		🔒 un cadenas verrouillé 
+		🔓 un cadenas déverrouillé 
+		🔏 un cadenas verrouillé avec un stylo 
+		🔐 un cadenas verrouillé avec une clé 
+		🔑 une clé 
+		🗝 une vieille clé 
+		🔨 un marteau 
+		⛏ une pioche 
+		⚒ un marteau et une pioche 
+		🛠 un marteau et une clé de serrage 
+		🗡 une épée 
+		⚔ des épées croisées 
+		🔫 un flingue 
+		🏹 du tir à l'arc 
+		🛡 un bouclier 
+		🔧 une clé de serrage 
+		🔩 un écrou 
+		⚙ un engrenage 
+		🗜 un serre-joint 
+		⚗ un alambic 
+		⚖ une balance Roberval 
+		🔗 un lien 
+		⛓ des chaînes 
+		💉 une seringue 
+		💊 des médicaments 
+		🚬 une cigarette 
+		⚰ un cercueil 
+		⚱ une urne funéraire 
+		🗿 un moaï 
+		🛢 du pétrole 
+		🔮 la voyance 
+		🛒 un chariot 
+		🏧 un distributeur de billets 
+		🚮 le fait de mettre ses déchets à la poubelle 
+		🚰 l'eau potable 
+		♿ une chaise roulante 
+		🚹 des toilettes pour homme 
+		🚺 des toilettes pour femme 
+		🚻 des toilettes 
+		🚼 un bébé 
+		🚾 des WC 
+		🛂 le contrôle des passeports 
+		🛃 le contrôle des bgages 
+		🛄 la récupération des bagages 
+		🛅 un bagage abandonné 
+		⚠ un avertissement 
+		🚸 des enfants qui traversent 
+		⛔ non 
+		🚫 l'interdiction 
+		🚳 pas de vélos 
+		🚭 l'interdiction de fumer 
+		🚯 l'interdiction de polluer 
+		🚱 non-potable water 
+		🚷 pas de piétons 
+		📵 pas de téléphones 
+		🔞 la pornographie 
+		☢ la radioactivité 
+		☣ biohazard 
+		⬆ une flèche allant en haut 
+		↗ une flèche allant en haut à droite 
+		➡ une flèche allant à droite 
+		↘ une flèche allant en bas à droite 
+		⬇ une flèche allant en bas 
+		↙ une flèche allant en bas à gauche 
+		⬅ une flèche à gauche 
+		↖ une flèche allant en haut à gauche 
+		↕ une flèche allant vers le haut et vers le bas 
+		↔ une flèche allant à gauche et à droite 
+		↩ une flèche tournant à gauche 
+		↪ une flèche tournant à droite 
+		⤴ une flèche tournant vers le haut 
+		⤵ une flèche tournant vers le bas 
+		🔃 une flèche allant dans le sens horaire 
+		🔄 une flèche allant dans le sens antihoraire 
+		🔙 une flèche BACK 
+		🔚 une flèche END 
+		🔛 une flèche ON! 
+		🔜 une flèche SOON 
+		🔝 une flèche TOP 
+		🛐 une lieu de culte 
+		⚛ un atome 
+		☯ le Yin et le Yang 
+		♈ les Bélier 
+		♉ les Taureau 
+		♊ les Gémeaux 
+		♋ les Cancer 
+		♌ les Lion 
+		♍ les Vierge 
+		♎ les Balance 
+		♏ les Scorpion 
+		♐ les Sagittaire 
+		♑ les Capricorne 
+		♒ les Verseau 
+		♓ les Poissons 
+		⛎ L'Ophiuchus 
+		🔀 les pistes se mélangeant 
+		🔁 la répétition 
+		🔂 la répétition d'une piste 
+		▶ la vitesse normale 
+		⏩ l'avance rapide 
+		⏭ la piste suivante 
+		⏯ la pause ou la vitesse normale 
+		◀ le rembobinage 
+		⏪ le rembobinage rapide 
+		⏮ la dernière piste 
+		🔼 vers le haut 
+		⏫ rapidement vers le haut 
+		🔽 vers le bas 
+		⏬ rapidement vers le bas 
+		⏸ la pause 
+		⏹ l'arrêt 
+		⏺ l'enregistrement 
+		⏏ l'éjection 
+		🎦 un cinéma 
+		🔅 quand il y a moins de lumière 
+		🔆 quand il y a plus de lumière 
+		📶 la 4G 
+		📳 le mode vibreur 
+		📴 un téléphone éteint 
+		♀ la femme 
+		♂ l'homme 
+		⚕ la médecine 
+		♻ le recyclage 
+		⚜ la fleur-de-lys 
+		🔱 un trident 
+		📛 un badge 
+		🔰 le symbole japonais pour Débutant 
+		⭕ un cercle rouge 
+		✅ une coche blanche 
+		☑ une boîte avec une coche 
+		✔ une coche 
+		✖ le symbole des multiplications 
+		❌ une croix en x 
+		❎ une croix en x blanche 
+		➕ le signe plus 
+		➖ le signe moins 
+		➗ le signe de division 
+		➰ une boucle 
+		➿ deux boucles 
+		"[char:〽 McDonald's 
+		✳ une astérisque à 8 branches 
+		✴ une étoile à 8 branche 
+		❇ une paillette 
+		‼ un double point d'exclamation 
+		⁉ un point d'exclamation et d'interrogation 
+		❓ un point d'interrogation 
+		❔ un point d'interrogation 
+		❕ un point d'exclamation 
+		❗ un point d'exclamation 
+		〰 une vague 
+		© le copyright 
+		® une marque déposée 
+		™ les marques de commerce 
+		#️⃣ la touche # 
+		*️⃣ la touche * 
+		0️⃣ la touche 0 
+		1️⃣ la touche 1 
+		2️⃣ la touche 2 
+		3️⃣ la touche 3 
+		4️⃣ la touche 4 
+		5️⃣ la touche 5 
+		6️⃣ la touche 6 
+		7️⃣ la touche 7 
+		8️⃣ la touche 8 
+		9️⃣ la touche 9 
+		🔟 touche 10 
+		💯 sur 100 points 
+		🔠 la saisie de caractères majuscules 
+		🔡 la saisie de caractères minuscules 
+		🔢 la saisie de nombres 
+		🔣 la saisie de symboles 
+		🔤 la saisie de lettre latines 
+		🅰 le groupe sanguin A 
+		🆎 le groupe sanguin AB 
+		🅱 le groupe sanguin B 
+		🆑 le bouton CL 
+		🆒 le bouton COOL 
+		🆓 le bouton FREE 
+		ℹ une information 
+		🆔 le bouton ID 
+		Ⓜ le M encerclé 
+		🆕 le bouton NEW  
+		🆖 le bouton NG  
+		🅾 le groupe sanguin O 
+		🆗 le bouton OK 
+		🅿 le bouton P 
+		🆘 le bouton SOS 
+		🆙 le bouton UP! 
+		🆚 le bouton v.s. 
+		🈁 le caractère japonais pour 'ici' 
+		🈂 le caractère japonais pour 'frais de service'  
+		🈷 le caractère japonais pour 'quantité mensuelle'  
+		🈶 le caractère japonais pour 'pas gratuit'  
+		🈯 le caractère japonais pour 'réservé'  
+		🉐 le caractère japonais pour 'bonne affaire' 
+		🈹 le caractère japonais pour 'discount' 
+		🈚 le caractère japonais pour 'gratuit' 
+		🈲 le caractère japonais pour 'prohibé' 
+		🉑 le caractère japonais pour 'acceptable' 
+		🈸 le caractère japonais pour 'application'  
+		🈴 le caractère japonais pour 'passer une année'  
+		🈳 le caractère japonais pour 'vacant'  
+		㊗ le caractère japonais pour 'félicitations'  
+		㊙ le caractère japonais pour 'secret'  
+		🈺 le caractère japonais pour 'ouvert aux affaires'  
+		🈵 le caractère japonais pour 'non-vacant'  
+		▪ un petit carré noir 
+		▫ un petit carré blanc 
+		◻ un carré blanc moyen 
+		◼ un carré noir moyen 
+		◽ un petit carré blanc 
+		◾ un petit carré noir 
+		⬛ un grand carré noir 
+		⬜ un grand carré blanc 
+		🔶 un grand diamant orange 
+		🔷 un grand diamant bleu 
+		🔸 un petit diamant orange 
+		🔹 un petit diamant bleu 
+		🔺 un triangle pointe vers le haut 
+		🔻 un triangle pointé vers le bas 
+		💠 un diamant avec un point 
+		🔘 un bouton radio  
+		🔲 un carré blanc 
+		🔳 un carré noir 
+		⚪ un cercle blanc 
+		⚫ un cercle noir 
+		🔴 un cercle rouge 
+		🔵 un cercle bleu 
+		🏁 un drapeau en damier 
+		🚩 un drapeau triangulaire 
+		🎌 des drapeaux croisés 
+		🏴 un drapeau noir 
+		🏳 un drapeau blanc 
+		🏳️‍🌈 le drapeau LGBT 
+		🇦🇨 l'Île de l'Ascension 
+		🇦🇩 l'Andorre 
+		🇦🇪 les Émirats Arabes Unis 
+		🇦🇫 l'Afghanistan 
+		🇦🇬 Antigua & Barbuda 
+		🇦🇮 Anguilla 
+		🇦🇱 l'Albanie 
+		🇦🇲 l'Arménie 
+		🇦🇴 l'Angola 
+		🇦🇶 l'Antarctique 
+		🇦🇷 l'Argentine 
+		🇦🇸 les Samoa américaines 
+		🇦🇹 l'Autriche 
+		🇦🇺 l'Australie 
+		🇦🇼 Aruba 
+		🇦🇽 les îles Åland 
+		🇦🇿 l'Azerbaïdjan 
+		🇧🇦 la Bosnie-Herzégovine 
+		🇧🇧 le Barbade 
+		🇧🇩 le Bangladesh 
+		🇧🇪 la Belgique 
+		🇧🇫 le Burkina Faso 
+		🇧🇬 la Bulgarie 
+		🇧🇭 le Bahreïn 
+		🇧🇮 le Burundi 
+		🇧🇯 le Bénin 
+		🇧🇱 Saint-Barthélemy 
+		🇧🇲 les Bermudes 
+		🇧🇳 Brunei 
+		🇧🇴 La Bolivie 
+		🇧🇶 Les Antilles néerlandaises 
+		🇧🇷 le Brésil 
+		🇧🇸 les Bahamas 
+		🇧🇹 le Bhoutan 
+		🇧🇻 l'île Bouvet 
+		🇧🇼 le Botswana 
+		🇧🇾 la Biélorussie 
+		🇧🇿 le Belize 
+		🇨🇦 le Canada 
+		🇨🇨 les îles Cocos 
+		🇨🇩 la République Démocratique du Congo 
+		🇨🇫 la République Centrafricaine 
+		🇨🇬 le Congo 
+		🇨🇭 la Suisse 
+		🇨🇮 la Côte d’Ivoire 
+		🇨🇰 les Îles Cook 
+		🇨🇱 le Chili 
+		🇨🇲 le Cameroun 
+		🇨🇳 la Chine 
+		🇨🇴 la Colombie 
+		🇨🇵 l'île Clipperton 
+		🇨🇷 le Costa Rica 
+		🇨🇺 Cuba 
+		🇨🇻 le Cap-Vert 
+		🇨🇼 Curaçao 
+		🇨🇽 l'île Christmas 
+		🇨🇾 Chypre 
+		🇨🇿 la république Tchèque 
+		🇩🇪 l'Allemagne 
+		🇩🇬 Diego Garcia 
+		🇩🇯 le Djibouti 
+		🇩🇰 le Danemark 
+		🇩🇲 la Dominique 
+		🇩🇴 la république Dominicaine 
+		🇩🇿 l'Algérie 
+		🇪🇦 Ceuta et Melilla 
+		🇪🇨 l'Équateur 
+		🇪🇪 l'Estonie 
+		🇪🇬 l'Égypte 
+		🇪🇭 le Sahara occidental 
+		🇪🇷 l'Erythrée 
+		🇪🇸 l'Espagne 
+		🇪🇹 l'Éthiopie 
+		🇪🇺 l'Union Européenne 
+		🇫🇮 la Finlande 
+		🇫🇯 les îles Fidji 
+		🇫🇰 les îles Falkland 
+		🇫🇲 la Micronésie 
+		🇫🇴 les îles Féroé 
+		🇫🇷 la France 
+		🇬🇦 le Gabon 
+		🇬🇧 le Royaume-Uni 
+		🇬🇩 la Grenade 
+		🇬🇪 la Géorgie 
+		🇬🇫 la Guyane française 
+		🇬🇬 Guernsey 
+		🇬🇭 le Ghana 
+		🇬🇮 Gibraltar 
+		🇬🇱 le Groenland 
+		🇬🇲 la Gambie 
+		🇬🇳 la Guinée 
+		🇬🇵 la Guadeloupe 
+		🇬🇶 la Guinée équatoriale 
+		🇬🇷 la Grèce 
+		🇬🇸 les îles Sandwich du Sud 
+		🇬🇹 le Guatemala 
+		🇬🇺 Guam 
+		🇬🇼 Guinée-Bissau 
+		🇬🇾 la Guyane 
+		🇭🇰 Hong Kong 
+		🇭🇲 les îles McDonald 
+		🇭🇳 le Honduras 
+		🇭🇷 la Croatie 
+		🇭🇹 Haïti 
+		🇭🇺 la Hongrie 
+		🇮🇨 les îles Canaries 
+		🇮🇩 l'Indonésie 
+		🇮🇪 l'Irlande 
+		🇮🇱 Israël 
+		🇮🇲 l'île de Man 
+		🇮🇳 l'Inde 
+		🇮🇴 les Territoires Britanniques de l'océan Indien 
+		🇮🇶 l'Irak 
+		🇮🇷 l'Iran 
+		🇮🇸 l'Islande 
+		🇮🇹 l'Italie 
+		🇯🇪 Jersey 
+		🇯🇲 la Jamaïque 
+		🇯🇴 la Jordanie 
+		🇯🇵 le Japon 
+		🇰🇪 le Kenya 
+		🇰🇬 le Kirghizistan 
+		🇰🇭 le Cambodge 
+		🇰🇮 les Kiribati 
+		🇰🇲 les Comores 
+		🇰🇳 Saint-Christophe-et-Niévès 
+		🇰🇵 la Corée du Nord 
+		🇰🇷 la Corée du Sud 
+		🇰🇼 le Koweït 
+		🇰🇾 les îles Caïmans 
+		🇰🇿 le Kazakhstan 
+		🇱🇦 le Laos 
+		🇱🇧  le Liban 
+		🇱🇨 Sainte Lucie 
+		🇱🇮 le Liechtenstein 
+		🇱🇰 le Sri Lanka 
+		🇱🇷 le Liberia 
+		🇱🇸 le Lesotho 
+		🇱🇹 Lithuania 
+		🇱🇺 le Luxembourg 
+		🇱🇻 la Lettonie 
+		🇱🇾 la Libye 
+		🇲🇦 le Maroc 
+		🇲🇨 Monaco 
+		🇲🇩 la Moldavie 
+		🇲🇪 le Monténégro 
+		🇲🇫 Saint-Martin 
+		🇲🇬 Madagascar 
+		🇲🇭 les îles Marshall 
+		🇲🇰 la Macédoine 
+		🇲🇱 le Mali 
+		🇲🇲 la Birmanie 
+		🇲🇳 la Mongolie 
+		🇲🇴 Macao 
+		🇲🇵 les îles Mariannes du Nord 
+		🇲🇶 la Martinique 
+		🇲🇷 la Mauritanie 
+		🇲🇸 Montserrat 
+		🇲🇹 Malte 
+		🇲🇺 l'île Maurice 
+		🇲🇻 les Maldives 
+		🇲🇼 le Malawi 
+		🇲🇽 le Mexique 
+		🇲🇾 la Malaisie 
+		🇲🇿 le Mozambique 
+		🇳🇦 la Namibie 
+		🇳🇨 la Nouvelle-Calédonie 
+		🇳🇪 le Niger 
+		🇳🇫 l'île Norfolk 
+		🇳🇬 le Nigeria 
+		🇳🇮 le Nicaragua 
+		🇳🇱 les Pays-Bas 
+		🇳🇴 la Norvège 
+		🇳🇵 le Népal 
+		🇳🇷 Nauru 
+		🇳🇺 Niue 
+		🇳🇿 la Nouvelle-Zélande 
+		🇴🇲 Oman 
+		🇵🇦 le Panamá 
+		🇵🇪 le Pérou 
+		🇵🇫 la Polynésie française 
+		🇵🇬 la Papouasie-Nouvelle-Guinée 
+		🇵🇭 les Philippines 
+		🇵🇰 le Pakistan 
+		🇵🇱 la Pologne 
+		🇵🇲 Saint-Pierre & Miquelon 
+		🇵🇳 les îles Pitcairn 
+		🇵🇷 le Porto Rico 
+		🇵🇸 les territoires Palestiniens 
+		🇵🇹 le Portugal 
+		🇵🇼 les îles Palaos 
+		🇵🇾 le Paraguay 
+		🇶🇦 le Qatar 
+		🇷🇪 la Réunion 
+		🇷🇴 la Roumanie 
+		🇷🇸 la Serbie 
+		🇷🇺 la Russie 
+		🇷🇼 le Rwanda 
+		🇸🇦 l'Arabie Saoudite 
+		🇸🇧 les îles Salomon 
+		🇸🇨 les Seychelles 
+		🇸🇩 le Soudan 
+		🇸🇪 la Suède 
+		🇸🇬 Singapour 
+		🇸🇭 Sainte-Hélène 
+		🇸🇮 la Slovénie 
+		🇸🇯 la Roumanie 
+		🇸🇰 la Slovaquie 
+		🇸🇱 le Sierra Leone 
+		🇸🇲 Saint-Marin 
+		🇸🇳 le Sénégal 
+		🇸🇴 la Somalie 
+		🇸🇷 le Surinam 
+		🇸🇸 le Soudan du Sud 
+		🇸🇹 São Tomé-et-Príncipe 
+		🇸🇻 Salvador 
+		🇸🇽 Sint-Marteen (Saint-Martin) 
+		🇸🇾 la Syrie 
+		🇸🇿 le Swaziland 
+		🇹🇦 Tristan da Cunha 
+		🇹🇨 les îles Turks-et-Caïcos 
+		🇹🇩 le Tchad 
+		🇹🇫 les territoires français du Sud 
+		🇹🇬 le Togo 
+		🇹🇭 la Thaïlande 
+		🇹🇯 les Tadjikistan 
+		🇹🇰 les Tokelau 
+		🇹🇱 le Timor oriental 
+		🇹🇲 le Turkménistan 
+		🇹🇳 la Tunisie 
+		🇹🇴 les Tonga 
+		🇹🇷 la Turquie 
+		🇹🇹 Trinité-et-Tobago 
+		🇹🇻 les Tuvalu 
+		🇹🇼 Taïwan 
+		🇹🇿 la Tanzanie 
+		🇺🇦 l'Ukraine 
+		🇺🇬 l'Ouganda 
+		🇺🇲 les îles mineures éloignées des États-Unis",
+		🇺🇳 l'ONU 
+		🇺🇸 les États-Unis 
+		🇺🇾 l'Uruguay 
+		🇺🇿 l'Ouzbékistan 
+		🇻🇦 la cité du Vatican 
+		🇻🇨 Saint-Vincent et les Grenadines 
+		🇻🇪 le Venezuela 
+		🇻🇬 les îles Vierges Britanniques 
+		🇻🇮 les îles Vierges Américaines 
+		🇻🇳 le Viêt nam 
+		🇻🇺 le Vanuatu 
+		🇼🇫 Wallis & Futuna 
+		🇼🇸 les îles Samoa 
+		🇽🇰 le Kosovo 
+		🇾🇪 le Yémen 
+		🇾🇹 Mayotte 
+		🇿🇦 l'Afrique du Sud 
+		🇿🇲 la Zambie 
+		🇿🇼 le Zimbabwe 
+		🦵 une jambe 
+		🦶 un pied 
+		🦴 un os 
+		🦷 une dent 
+		🥽 des lunettes de protection 
+		🥼 une blouse blanche 
+	 	🥾 des chaussures de randonnée 
+		🦝 un raton-laveur 
+		🦙 un lama 
+		🦛 un hippopotame 
+		🦘 un kangourou 
+		🦡 un blaireau 
+		🦢 un cygne 
+		🦚 un paon 
+		🦜 un perroquet 
+		🦞 un homard 
+		🦟 un moustique 
+		🦠 un microbe 
+		🥭 une mangue 
+		🥬 un légume vert 
+		🥯 un bagel 
+		🧂 du sel 
+		🥮 un gâteau de lune 
+		🧁 un cupcake 
+		🧭 une boussole 
+		🧱 une brique 
+		🛹 un skateboard 
+		🧳 un bagage 
+		🧨 un pétard 
+		🧧 une enveloppe rouge 
+		🥎 le softball 
+		🥏 un Frisbee 
+		🥍 la crosse 
+		🧿 le Nazar boncuk 
+		🧩 un puzzle 
+		🧸 un nounours 
+		♟ le jeu d'échecs 
+		🧮 un boulier 
+		🧾 un ticket de caisse 
+		🧰 une trousse à outils 
+		🧲 un aimant 
+		🧪 un tube à essai 
+		🧫 une boîte de Petri 
+		🧬 l'ADN 
+		🧯 un extincteur 
+		🧴 de la lotion 
+		🧵 du fil 
+		🧶 de la laine 
+		🧷 une épingle 
+		🧹 un balai 
+		🧺 un panier à linges 
+		🧻 du PQ 
+		🧼 du savon 
+		🧽 Bob l'éponge 
+		♾ à l'infini 
+	 	🏴‍☠️ un drapeau de pirate
